@@ -1,0 +1,16 @@
+﻿Body Temperature,Skin Cover,Gives Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates,Type
+warm-blooded,hair,yes,no,no,yes,no,mammal
+cold-blooded,scales,no,no,no,no,yes,reptile
+cold-blooded,scales,no,yes,no,no,no,fish
+warm-blooded,hair,yes,yes,no,no,no,mammal
+cold-blooded,none,no,semi,no,yes,yes,amphibian
+cold-blooded,scales,no,no,no,yes,no,reptile
+warm-blooded,hair,yes,no,yes,yes,yes,mammal
+warm-blooded,feathers,no,no,yes,yes,no,bird
+warm-blooded,fur,yes,no,no,yes,no,mammal
+cold-blooded,scales,yes,yes,no,no,no,fish
+cold-blooded,scales,no,semi,no,yes,no,reptile
+warm-blooded,feathers,no,semi,no,yes,no,bird
+warm-blooded,quills,yes,no,no,yes,yes,mammal
+cold-blooded,scales,no,yes,no,no,no,fish
+cold-blooded,none,no,semi,no,yes,yes,amphibian

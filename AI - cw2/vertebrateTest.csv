@@ -1,0 +1,10 @@
+﻿Body Temperature,Skin Cover,Gives Birth,Aquatic Creature,Aerial Creature,Has Legs,Hibernates
+warm-blooded,scales,yes,no,yes,yes,no
+warm-blooded,scales,no,yes,yes,no,no
+warm-blooded,hair,yes,yes,no,no,no
+cold-blooded,scales,yes,no,no,yes,yes
+cold-blooded,fur,no,no,no,no,no
+cold-blooded,fur,no,no,no,yes,yes
+warm-blooded,feathers,no,no,no,yes,no
+warm-blooded,scales,yes,yes,no,yes,yes
+cold-blooded,scales,no,yes,no,no,no

@@ -1,0 +1,17 @@
+﻿Outlook=Sunny
+	Humidity=High
+		Class: No
+	Humidity=Normal
+		Class: Yes
+﻿Outlook=Overcast
+	Class: Yes
+﻿Outlook=Rain
+	Wind=Weak
+		Class: Yes
+	Wind=Strong
+		Class: No
+
+Yes
+No
+Yes
+No

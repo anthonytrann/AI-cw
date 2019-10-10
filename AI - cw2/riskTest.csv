@@ -1,0 +1,4 @@
+﻿collateral,income,debt,credit_history
+adequate,low,low,good
+adequate,low,high,bad
+none,low,high,unknown

@@ -1,0 +1,15 @@
+﻿collateral,income,debt,credit history,risk
+none,low,high,bad,high
+none,mid,high,unknown,high
+none,mid,low,unknown,moderate
+none,low,low,unknown,high
+none,high,low,unknown,low
+adequate,high,low,unknown,low
+none,low,low,bad,high
+adequate,high,low,bad,moderate
+none,high,low,good,low
+adequate,high,high,good,low
+none,low,high,good,high
+none,mid,high,good,moderate
+none,high,high,good,low
+none,mid,high,bad,high

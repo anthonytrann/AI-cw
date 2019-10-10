@@ -1,0 +1,27 @@
+Skin Cover=hair
+	Class: mammal
+Skin Cover=scales
+	Aquatic Creature=no
+		Class: reptile
+	Aquatic Creature=yes
+		Class: fish
+	Aquatic Creature=semi
+		Class: reptile
+Skin Cover=none
+	Class: amphibian
+Skin Cover=feathers
+	Class: bird
+Skin Cover=fur
+	Class: mammal
+Skin Cover=quills
+	Class: mammal
+
+reptile
+fish
+mammal
+reptile
+mammal
+mammal
+bird
+fish
+fish

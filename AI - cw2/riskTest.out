@@ -1,0 +1,23 @@
+income=low
+	Class: high
+income=mid
+	credit history=bad
+		Class: high
+	credit history=unknown
+		debt=high
+			Class: high
+		debt=low
+			Class: moderate
+	credit history=good
+		Class: moderate
+income=high
+	credit history=bad
+		Class: moderate
+	credit history=unknown
+		Class: low
+	credit history=good
+		Class: low
+
+high
+high
+high
